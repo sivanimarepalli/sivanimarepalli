@@ -40,7 +40,7 @@ I write code to understand, build, and experiment. Every project is a chance to 
 
 ## 📊 GitHub Stats
 
-![Sivani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sivanimarepalli&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sivanimarepalli&show_icons=true&theme=radical)
 
 
 > “Always curious, always coding.”
