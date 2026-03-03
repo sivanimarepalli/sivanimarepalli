@@ -38,9 +38,7 @@ I write code to understand, build, and experiment. Every project is a chance to 
 
 ---
 
-## 📊 GitHub Activity
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivanimarepalli&layout=compact)
 
 
 > “Always curious, always coding.”
