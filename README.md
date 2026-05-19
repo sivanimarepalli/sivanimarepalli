@@ -12,6 +12,7 @@ I write code to understand, build, and experiment. Every project is a chance to 
 ---
 
 ## 🔭 Current Projects
+- **Rad-RAG: Pneumonia Detection & Radiology Report Generation (Team Project)** – AI-powered RAG framework using DenseNet-121, FAISS, SentenceTransformers, and Gemma 3 for automated chest X-ray analysis and clinical report generation.  
 - **HandsMen Threads (Salesforce)** – A hands-on Salesforce project managing customers, products, orders, and inventory.  
 - **Student Registration System (Java)** – A system to manage student data efficiently.  
 - **Liver Cirrhosis Detection** – Machine learning project predicting liver cirrhosis.  
